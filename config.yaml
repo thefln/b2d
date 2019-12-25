@@ -22,9 +22,9 @@ params:
         accent2: "#4a00e0"
 menu:
   main:
-  - url: https://github.com/
+  - url: https://github.com/snipcart
     name: GitHub
-    weight: 6
+    weight: 5
     identifier: github
 disableKinds:
 - RSS

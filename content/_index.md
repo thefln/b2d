@@ -95,8 +95,5 @@ sections:
     url: "/docs/getting-started/installation.html"
   image: ''
 layout: home
-menu:
-  main:
-    weight: 2
 
 ---
