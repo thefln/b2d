@@ -17,6 +17,11 @@ sections:
   title: ''
   section_id: ''
   featureslist:
+  - title: Chapter 2
+    content: Learn how to market to developers.
+    actions:
+    - label: Read
+      url: "#"
   - content: Understanding the B2D model.
     actions:
     - label: Read
