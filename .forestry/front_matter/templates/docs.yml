@@ -28,7 +28,5 @@ fields:
     required: true
 pages:
 - content/docs/_index.md
-- content/docs/tools/_index.md
-- content/docs/tools/starter-theme.md
 - content/docs/ui-components/_index.md
 - content/docs/ui-components/typography.md
