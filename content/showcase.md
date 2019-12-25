@@ -11,10 +11,10 @@ items:
   subtitle: ''
   preview_img: "/images/snip1.jpg"
   url: https://snipcart.com/ecommerce-website-design
-- title: Fjord
-  subtitle: A minimal blogging theme for Unibit
-  preview_img: images/8.jpg
-  url: https://themes.stackbit.com/demos/fjord/
+- title: 'SPA SEO: Optimizing Your App for Google'
+  subtitle: ''
+  preview_img: "/images/snip2.jpg"
+  url: https://snipcart.com/spa-seo
 - title: Ampersand
   subtitle: Medium inspired blogging theme
   preview_img: images/9.jpg
