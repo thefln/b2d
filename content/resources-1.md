@@ -8,7 +8,7 @@ weight = 2
 [[items]]
 preview_img = ""
 subtitle = ""
-title = "Ch. 1 - The B2D Model"
+title = "1. The B2D Model"
 url = "#"
 
 +++
