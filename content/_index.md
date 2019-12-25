@@ -28,7 +28,7 @@ sections:
     - label: Coming soon
       url: "#"
   - title: Chapter 3
-    content: How to write compelling documentation.
+    content: Navigating pricing and open source.
     actions:
     - label: Coming soon
       url: "#"
