@@ -7,10 +7,10 @@ items:
   subtitle: ''
   preview_img: "/images/snip.png"
   url: https://snipcart.com/ecommerce-checkout
-- title: Fresh
-  subtitle: A personal theme for Unibit
-  preview_img: images/7.jpg
-  url: https://themes.stackbit.com/demos/fresh/
+- title: How to Design an E-Commerce Website
+  subtitle: ''
+  preview_img: "/images/snip1.jpg"
+  url: https://snipcart.com/ecommerce-website-design
 - title: Fjord
   subtitle: A minimal blogging theme for Unibit
   preview_img: images/8.jpg
