@@ -7,10 +7,10 @@ items:
   subtitle: ''
   preview_img: "/images/docsearch.png"
   url: https://snipcart.com/blog/static-site-search
-- title: How to Design an E-Commerce Website
+- title: 'Stackbit Intro: Bundle JAMstack Tools in Minutes'
   subtitle: ''
-  preview_img: "/images/snip1.jpg"
-  url: https://snipcart.com/ecommerce-website-design
+  preview_img: "/images/stackbit.jpg"
+  url: https://snipcart.com/blog/stackbit
 - title: 'SPA SEO: Optimizing Your App for Google'
   subtitle: ''
   preview_img: "/images/snip2.jpg"
