@@ -17,8 +17,8 @@ sections:
   title: ''
   section_id: ''
   featureslist:
-  - title: Chapter 2
-    content: Learn how to market to developers.
+  - title: Chapter 3
+    content: How to write compelling documentation.
     actions:
     - label: Read
       url: "#"
@@ -27,6 +27,11 @@ sections:
     - label: Read
       url: "#"
     title: Chapter 1
+  - title: Chapter 2
+    content: Learn how to market to developers.
+    actions:
+    - label: Read
+      url: "#"
   subtitle: ''
 - type: ctablock
   template: ctablock
