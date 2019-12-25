@@ -24,4 +24,5 @@ fields:
   config:
     required: true
 pages:
+- content/learn/welcome-to-the-b2d-playbook.md
 - content/style-guide.md
