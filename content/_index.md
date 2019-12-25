@@ -14,7 +14,7 @@ sections:
 - template: featuresblock
   component: features_block.html
   type: featuresblock
-  title: Chapters
+  title: Start reading
   section_id: ''
   featureslist:
   - content: Understanding the B2D model.
