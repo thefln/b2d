@@ -8,6 +8,11 @@ weight = 2
 [[items]]
 preview_img = ""
 subtitle = ""
+title = "3. Pricing and Open Source"
+url = "#"
+[[items]]
+preview_img = ""
+subtitle = ""
 title = "1. The B2D Model"
 url = "#"
 [[items]]
