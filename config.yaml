@@ -2,7 +2,7 @@
 title: The B2D Playbook
 baseURL: "/"
 params:
-  palette: violet
+  palette: navy
   palettes:
     blue:
       sass:
@@ -22,10 +22,14 @@ params:
         accent2: "#4a00e0"
 menu:
   main:
-  - url: https://github.com/snipcart
+  - identifier: layouts
+    name: Sample Layouts
+    url: "#"
+    weight: 5
+  - identifier: github
     name: GitHub
-    weight: 4
-    identifier: github
+    url: https://github.com/
+    weight: 6
 disableKinds:
 - RSS
 - taxonomy
