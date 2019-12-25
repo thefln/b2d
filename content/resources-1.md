@@ -8,12 +8,17 @@ weight = 2
 [[items]]
 preview_img = ""
 subtitle = ""
-title = "2. Marketing to Devs"
+title = "3. Writing Documentation"
 url = "#"
 [[items]]
 preview_img = ""
 subtitle = ""
 title = "1. The B2D Model"
+url = "#"
+[[items]]
+preview_img = ""
+subtitle = ""
+title = "2. Marketing to Devs"
 url = "#"
 
 +++
