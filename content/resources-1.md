@@ -8,11 +8,6 @@ weight = 2
 [[items]]
 preview_img = ""
 subtitle = ""
-title = "5. Fostering Community"
-url = "#"
-[[items]]
-preview_img = ""
-subtitle = ""
 title = "1. The B2D Model"
 url = "#"
 [[items]]
@@ -29,6 +24,11 @@ url = "#"
 preview_img = ""
 subtitle = ""
 title = "4. Building a Dev-First Product"
+url = "#"
+[[items]]
+preview_img = ""
+subtitle = ""
+title = "5. Fostering Community"
 url = "#"
 
 +++
