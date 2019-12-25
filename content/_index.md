@@ -35,13 +35,13 @@ sections:
   subtitle: ''
 - type: ctablock
   template: ctablock
-  title: Download the whole course.
+  title: Interested? Let us know.
   section_id: cta
   component: cta_block.html
   subtitle: ''
   actions:
-  - label: Download
-    url: "#"
+  - label: Get in touch
+    url: mailto:francois@snipcart.com
 layout: home
 
 ---
