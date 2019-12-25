@@ -15,10 +15,6 @@ items:
   subtitle: ''
   preview_img: "/images/snip2.jpg"
   url: https://snipcart.com/spa-seo
-- title: Ampersand
-  subtitle: Medium inspired blogging theme
-  preview_img: images/9.jpg
-  url: https://themes.stackbit.com/demos/ampersand/
 layout: showcase
 menu:
   main:
