@@ -3,6 +3,10 @@ title: Resources
 subtitle: These pieces might help too.
 img_path: images/5.jpg
 items:
+- title: New to JAMstack? Everything You Need to Know to Get Started
+  subtitle: ''
+  preview_img: "/images/jamstack.png"
+  url: https://snipcart.com/blog/jamstack
 - title: How to Choose the Best Static Site Generator in 2019
   subtitle: ''
   preview_img: "/images/ssg.png"
