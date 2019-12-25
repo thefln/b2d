@@ -28,4 +28,3 @@ fields:
     required: true
 pages:
 - content/docs/_index.md
-- content/docs/ui-components/_index.md
