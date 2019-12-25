@@ -10,7 +10,7 @@ sections:
   image: ''
   actions:
   - label: Get Started
-    url: "#"
+    url: https://b2d.netlify.com/posts/b2d-marketing/
 - template: featuresblock
   component: features_block.html
   type: featuresblock
