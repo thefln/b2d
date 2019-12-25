@@ -4,6 +4,8 @@ img_path = "images/5.jpg"
 layout = "showcase"
 subtitle = "Chapters will be released every other week."
 title = "Chapters"
+[menu.main]
+weight = 4
 [[items]]
 preview_img = ""
 subtitle = ""
