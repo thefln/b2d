@@ -1,7 +1,7 @@
 +++
 img_path = "images/5.jpg"
 layout = "showcase"
-subtitle = "Chapters will be released every other week."
+subtitle = "Chapters are released every other week."
 title = "Chapters"
 [menu.main]
 weight = 2
