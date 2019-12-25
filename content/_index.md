@@ -14,7 +14,7 @@ sections:
 - template: featuresblock
   component: features_block.html
   type: featuresblock
-  title: ''
+  title: Chapters
   section_id: ''
   featureslist:
   - title: Chapter 3
