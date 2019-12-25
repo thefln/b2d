@@ -28,8 +28,6 @@ fields:
     required: true
 pages:
 - content/docs/_index.md
-- content/docs/getting-started/_index.md
-- content/docs/getting-started/installation.md
 - content/docs/manage-content/_index.md
 - content/docs/tools/_index.md
 - content/docs/tools/plug-ins.md
