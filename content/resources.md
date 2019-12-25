@@ -5,7 +5,7 @@ img_path: images/5.jpg
 items:
 - title: How to Choose the Best Static Site Generator in 2019
   subtitle: ''
-  preview_img: "/images/ssg-1.png"
+  preview_img: "/images/ssg.png"
   url: https://snipcart.com/blog/choose-best-static-site-generator
 - title: Static Site Search Made Easy (with Hugo Tutorial)
   subtitle: ''
