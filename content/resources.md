@@ -9,7 +9,7 @@ items:
   url: https://snipcart.com/blog/choose-best-static-site-generator
 - title: New to JAMstack? Everything You Need to Know to Get Started
   subtitle: ''
-  preview_img: "/images/jamstack-1.png"
+  preview_img: "/images/jamstack-2.png"
   url: https://snipcart.com/blog/jamstack
 - title: 'Stackbit Intro: Bundle JAMstack Tools in Minutes'
   subtitle: ''
