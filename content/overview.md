@@ -1,21 +1,21 @@
 ---
-title: Overview
-subtitle: An optional subtitle
+title: Chapters
+subtitle: Chapters will be released every other week.
 img_path: images/5.jpg
 sections:
-  - type: ctablock
-    template: ctablock
-    title: The Title of The Call to Action Block
-    section_id: cta
-    component: cta_block.html
-    subtitle: This is an optional description for the call to action block.
-    actions:
-      - label: Get Started
-        url: /docs/getting-started/index.html
+- type: ctablock
+  template: ctablock
+  title: Download the whole course.
+  section_id: cta
+  component: cta_block.html
+  subtitle: Learn how to sell to developers without selling your soul.
+  actions:
+  - label: Download
+    url: "/docs/getting-started/index.html"
+layout: overview
 menu:
   main:
-    name: Overview
     weight: 1
     parent: layouts
-layout: overview
+
 ---
