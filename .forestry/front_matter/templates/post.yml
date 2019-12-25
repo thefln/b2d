@@ -38,5 +38,3 @@ fields:
     required: true
 pages:
 - content/posts/community.md
-- content/posts/conf.md
-- content/posts/libris-theme.md
