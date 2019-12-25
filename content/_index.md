@@ -25,7 +25,7 @@ sections:
   - title: Chapter 2
     content: Learn how to market to developers.
     actions:
-    - label: Read
+    - label: Coming soon
       url: "#"
   - title: Chapter 3
     content: How to write compelling documentation.
