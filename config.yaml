@@ -2,7 +2,7 @@
 title: The B2D Playbook
 baseURL: "/"
 params:
-  palette: navy
+  palette: violet
   palettes:
     blue:
       sass:
