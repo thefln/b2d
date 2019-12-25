@@ -8,7 +8,7 @@ weight = 2
 [[items]]
 preview_img = ""
 subtitle = ""
-title = "4. Building a Dev-First Product"
+title = "5. Fostering Community"
 url = "#"
 [[items]]
 preview_img = ""
@@ -24,6 +24,11 @@ url = "#"
 preview_img = ""
 subtitle = ""
 title = "3. Writing Documentation"
+url = "#"
+[[items]]
+preview_img = ""
+subtitle = ""
+title = "4. Building a Dev-First Product"
 url = "#"
 
 +++
