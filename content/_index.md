@@ -10,7 +10,7 @@ sections:
   image: "/images/heroicon-announcement-lg.svg"
   actions:
   - label: Get Started
-    url: docs/index.html
+    url: "#"
 - type: ctablock
   template: ctablock
   title: Download the whole course.
