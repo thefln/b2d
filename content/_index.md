@@ -3,7 +3,7 @@ title: The B2D Playbook
 sections:
 - type: heroblock
   template: heroblock
-  title: B2D
+  title: The B2D Playbook
   section_id: hero
   component: hero_block.html
   content: Selling to developers without selling your soul.
