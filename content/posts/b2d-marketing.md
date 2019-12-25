@@ -1,6 +1,6 @@
 ---
 title: 'B2D: marketing to devs'
-date: 2019-12-24T05:00:00+00:00
+date: 2019-12-24T05:00:00.000+00:00
 content_img_path: ''
 excerpt: ''
 layout: post
