@@ -28,7 +28,7 @@ url = "#"
 [[items]]
 preview_img = ""
 subtitle = ""
-title = "4. Building a Dev-First Product"
+title = "5. Building a Dev-First Product"
 url = "#"
 [[items]]
 preview_img = ""
