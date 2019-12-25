@@ -11,7 +11,7 @@ sections:
   subtitle: Learn how to sell to developers without selling your soul.
   actions:
   - label: Download
-    url: "/docs/getting-started/index.html"
+    url: "#"
 layout: overview
 menu:
   main:
