@@ -5,7 +5,7 @@ layout = "showcase"
 subtitle = "Chapters will be released every other week."
 title = "Chapters"
 [menu.main]
-weight = 4
+weight = 2
 [[items]]
 preview_img = ""
 subtitle = ""
