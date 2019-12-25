@@ -1,10 +1,9 @@
 ---
 root_folder: "/docs/"
 sections:
-- about
-- getting-started
-- ui-components
-- manage-content
-- tools
-- faq
-- community
+- About
+- The B2D Model
+- Marketing
+- Product
+- Pricing
+- Community
