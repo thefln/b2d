@@ -11,6 +11,18 @@ sections:
   actions:
   - label: Get Started
     url: "#"
+- template: featuresblock
+  component: features_block.html
+  type: featuresblock
+  title: ''
+  section_id: ''
+  featureslist:
+  - content: Understanding the B2D model.
+    actions:
+    - label: Read
+      url: "#"
+    title: Chapter 1
+  subtitle: ''
 - type: ctablock
   template: ctablock
   title: Download the whole course.
