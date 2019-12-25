@@ -72,7 +72,6 @@ sections:
 - type: document
   path: resources
   label: Resources
-  match: "**/*"
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''
