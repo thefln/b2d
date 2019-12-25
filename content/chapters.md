@@ -18,7 +18,7 @@ url = "#"
 [[items]]
 preview_img = ""
 subtitle = ""
-title = "3. Pricing and Open Source"
+title = "3. Pricing and Open Source 💳"
 url = "#"
 [[items]]
 preview_img = ""
