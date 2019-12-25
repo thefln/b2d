@@ -3,10 +3,10 @@ title: Resources
 subtitle: These pieces might help too.
 img_path: images/5.jpg
 items:
-- title: Best E-Commerce Checkout Practices
+- title: Static Site Search Made Easy (with Hugo Tutorial)
   subtitle: ''
-  preview_img: "/images/snip.png"
-  url: https://snipcart.com/ecommerce-checkout
+  preview_img: "/images/docsearch.png"
+  url: https://snipcart.com/blog/static-site-search
 - title: How to Design an E-Commerce Website
   subtitle: ''
   preview_img: "/images/snip1.jpg"
