@@ -1,5 +1,5 @@
 ---
-title: B2D
+title: The B2D Playbook
 sections:
 - type: heroblock
   template: heroblock
