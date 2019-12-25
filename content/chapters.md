@@ -33,7 +33,7 @@ url = "#"
 [[items]]
 preview_img = ""
 subtitle = ""
-title = "5. Fostering Community"
+title = "6. Fostering Community"
 url = "#"
 
 +++
