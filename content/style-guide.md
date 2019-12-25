@@ -3,9 +3,6 @@ title: Style Guide
 subtitle: The style guide provides you with a blueprint of default post and page styles.
 img_path: images/5.jpg
 layout: page
-menu:
-  main:
-    weight: 4
 draft: true
 
 ---

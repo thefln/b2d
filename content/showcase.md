@@ -18,7 +18,7 @@ items:
 layout: showcase
 menu:
   main:
-    weight: 2
+    weight: 4
     parent: layouts
 
 ---
