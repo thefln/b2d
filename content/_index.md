@@ -7,7 +7,7 @@ sections:
   section_id: hero
   component: hero_block.html
   content: Selling to developers without selling your soul.
-  image: "/images/heroicon-announcement-lg.svg"
+  image: ''
   actions:
   - label: Get Started
     url: "#"
