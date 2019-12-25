@@ -19,7 +19,7 @@ sections:
   featureslist:
   - content: Understanding the B2D model.
     actions:
-    - label: Read
+    - label: Coming soon
       url: "#"
     title: Chapter 1
   - title: Chapter 2
