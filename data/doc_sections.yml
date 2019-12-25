@@ -1,9 +1,3 @@
 ---
-root_folder: "/learn"
-sections:
-- About
-- The B2D Model
-- Marketing
-- Product
-- Pricing
-- Community
+root_folder: "/"
+sections: []
