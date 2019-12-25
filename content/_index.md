@@ -30,7 +30,7 @@ sections:
   - title: Chapter 3
     content: How to write compelling documentation.
     actions:
-    - label: Read
+    - label: Coming soon
       url: "#"
   subtitle: ''
 - type: ctablock
