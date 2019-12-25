@@ -1,5 +1,4 @@
 +++
-draft = true
 img_path = ""
 layout = "page"
 subtitle = "Sell to developers without selling your soul."
