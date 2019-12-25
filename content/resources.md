@@ -11,10 +11,10 @@ items:
   subtitle: ''
   preview_img: "/images/stackbit.jpg"
   url: https://snipcart.com/blog/stackbit
-- title: 'SPA SEO: Optimizing Your App for Google'
+- title: How We Auto-Generate Documentation, JavaScript Style
   subtitle: ''
-  preview_img: "/images/snip2.jpg"
-  url: https://snipcart.com/spa-seo
+  preview_img: "/images/sanity-nuxt.png"
+  url: https://snipcart.com/blog/generate-documentation-javascript
 layout: showcase
 menu:
   main:
