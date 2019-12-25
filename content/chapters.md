@@ -23,7 +23,7 @@ url = "#"
 [[items]]
 preview_img = ""
 subtitle = ""
-title = "4. Writing Documentation"
+title = "4. Writing Documentation 📄"
 url = "#"
 [[items]]
 preview_img = ""
