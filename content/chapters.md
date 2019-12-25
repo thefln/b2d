@@ -13,6 +13,16 @@ sections:
   - label: Read now
     url: "#"
   image: ''
+- template: contentblock
+  component: content_block.html
+  type: contentblock
+  title: Ch. 2 - Marketing to Devs
+  section_id: ch2
+  content: "\\[coming soon\\]"
+  actions:
+  - label: Read now
+    url: "#"
+  image: ''
 - type: ctablock
   template: ctablock
   title: Download the whole course.
