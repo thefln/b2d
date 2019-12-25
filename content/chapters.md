@@ -15,7 +15,6 @@ sections:
 layout: overview
 menu:
   main:
-    weight: 1
-    parent: layouts
+    weight: 3
 
 ---
