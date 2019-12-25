@@ -13,7 +13,7 @@ url = "#"
 [[items]]
 preview_img = ""
 subtitle = ""
-title = "2. Marketing to Devs"
+title = "2. Marketing to Devs 📢"
 url = "#"
 [[items]]
 preview_img = ""
