@@ -41,7 +41,7 @@ sections:
   subtitle: ''
   actions:
   - label: Get in touch
-    url: mailto:francois@snipcart.com
+    url: mailto:francois@snipcart.com?subject=About%20The%20B2D%20Playbook
 layout: home
 
 ---
