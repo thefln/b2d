@@ -47,4 +47,5 @@ fields:
   config:
     required: true
 pages:
+- content/resources-1.md
 - content/resources.md
