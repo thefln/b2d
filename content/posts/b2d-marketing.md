@@ -174,8 +174,6 @@ So here’s my question to you: **is there a spot on your own industry-specific 
 
 It’s a fun ride, I promise.
 
-***
+**Francois Lanthier Nadeau**
 
-_If you’ve enjoyed this post, please take a second to share it on Twitter. Got comments, questions? Hit the section below!_
-
-_This post originally appeared_ [_on Snipcart’s blog_](https://snipcart.com/blog/b2d-marketing-selling-to-developers) _and_ [_newsletter_](http://eepurl.com/cDZnQ9)_._
+**CEO, Snipcart**
