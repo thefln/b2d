@@ -47,4 +47,4 @@ fields:
   config:
     required: true
 pages:
-- content/showcase.md
+- content/resources.md
