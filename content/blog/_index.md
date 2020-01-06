@@ -1,7 +1,7 @@
 ---
 title: Blog
 subtitle: Selling to developers without selling your soul.
-img_path: images/5.jpg
+img_path: "/images/b2d playbook test.png"
 layout: blog
 menu:
   main:
