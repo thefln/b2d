@@ -7,7 +7,7 @@ sections:
   section_id: hero
   component: hero_block.html
   content: Selling to developers without selling your soul.
-  image: ''
+  image: "/images/b2d playbook test.png"
   actions:
   - label: Read an excerpt
     url: https://b2d.dev/posts/b2d-marketing/
