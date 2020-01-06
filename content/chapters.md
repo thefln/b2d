@@ -1,5 +1,5 @@
 +++
-img_path = "images/5.jpg"
+img_path = "/images/b2d playbook test.png"
 layout = "showcase"
 subtitle = "Chapters are released every other week."
 title = "Chapters"
